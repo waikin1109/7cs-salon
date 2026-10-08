@@ -750,18 +750,15 @@ body {
   gap: 20px;
 }
 
-#home {
-    position: relative;
-    z-index: 1;
-    background: transparent !important;
-}
-
-
-
 
 .footer-image {
     width: 2rem;
     height: 2rem;
     object-fit: cover;
-  
+}
+
+#home {
+    position: relative;
+    z-index: 1;
+    background: transparent !important;
 }
